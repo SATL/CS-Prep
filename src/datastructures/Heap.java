@@ -1,3 +1,5 @@
+package datastructures;
+
 import java.util.Comparator;
 import java.util.PriorityQueue;
 

@@ -1,4 +1,4 @@
-public class BitsOperations {
+public class BitOperations {
 
 
     //[ 1, 2,3,1,2]
