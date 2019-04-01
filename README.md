@@ -1,5 +1,5 @@
 # CS Prep
-Preparation for google interview
+Preparation for cs interview
 * Bits Operations
 * Regex
 * Algorithms
