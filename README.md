@@ -1,4 +1,4 @@
-# GooglePrep
+# CS Prep
 Preparation for google interview
 * Bits Operations
 * Regex
